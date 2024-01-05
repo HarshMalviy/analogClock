@@ -1,6 +1,6 @@
 setInterval(
     () =>{
-       d = new Date();
+      let d = new Date();
        htime = d.getHours();
        mtime = d.getMinutes();
        stime = d.getSeconds(); 
